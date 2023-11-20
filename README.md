@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there 👋, Matthew Berry
+#### Web Developer | Cybersecurity
+![Web Developer | Cybersecurity](https://WebDevBerry.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Matthew Berry from United States, I'm a Self-Taught Web Developer who is also interested in Cybersecurity. I really enjoy learning new languages like Python, Javascript and HTML/CSS.
+I'm a self taught web developer who enjoys to code on my spare time, I also do Martial arts, workout and play video games.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WebDevBerry)](https://github.com/WebDevBerry/github-readme-stats)
+Skills: Python / JS / HTML / CSS / REACT 
+
+
+
+
+
+
+[![WebDevBerry stats](https://github-readme-stats.vercel.app/api?username=WebDevBerry)](https://github.com/WebDevBerry/github-readme-stats)
