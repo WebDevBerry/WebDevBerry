@@ -5,8 +5,7 @@ I'm a self taught web developer who enjoys to code on my spare time, I also do M
 
 ## Skills and Experience
 
-
-Skills: Python / JS / HTML / CSS / REACT 
+Python / JS / HTML / CSS / REACT 
 
 
 
