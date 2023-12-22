@@ -3,7 +3,7 @@
 
 ## Skills and Experience
 
-Python / JS / HTML / CSS / REACT 
+Python / JS / HTML / CSS / REACT / SQL
 
 
 
