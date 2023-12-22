@@ -1,5 +1,5 @@
-### Hi there 👋, Matthew Berry
-#### Python Programmer | Cybersecurity
+### Hi I'm Matthew! 👋
+#### Python Programmer | Cybersecurity | Martial Artist
 
 ## Skills and Experience
 
