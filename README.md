@@ -1,7 +1,5 @@
 ### Hi there 👋, Matthew Berry
-#### Web Developer | Cybersecurity
-
-Self-Taught Web Developer who loves to problem solve
+#### Python Programmer | Cybersecurity
 
 ## Skills and Experience
 
