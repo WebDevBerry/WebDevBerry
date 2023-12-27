@@ -1,5 +1,5 @@
 ### Hi I'm Matthew! 👋
-#### Web Developer | Python Developer | Cybersecurity | Martial Artist
+#### Python Developer | Cybersecurity | Martial Artist
 
 ## Skills and Experience
 
